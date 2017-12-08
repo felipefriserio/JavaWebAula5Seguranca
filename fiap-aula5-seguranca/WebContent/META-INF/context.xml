@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+  <Realm className="org.apache.catalina.realm.JAASRealm" 
+  appName="fiap-aula5-seguranca"
+    userClassNames="fiap.scj.seguranca.UsuarioEntidade"
+    roleClassNames="fiap.scj.seguranca.PerfilEntidade" />
+</Context>
